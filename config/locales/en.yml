@@ -224,7 +224,7 @@ en:
   expired_reset_token: Password reset link has expired!
   features:
     title: Features
-    rooms: Pesonalized Rooms - Niaz
+    rooms: Pesonalized Rooms
     recordings: Recording Management
     designs: Custom Designs
     authentication: User Authentication
